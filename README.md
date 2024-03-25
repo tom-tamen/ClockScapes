@@ -46,6 +46,7 @@ This will compile your project to the `dist` directory, optimized for deployment
 ### Debug Mode
 
 For developers looking to modify the appearance or functionality of the clocks, activate debug mode by appending `#debug` to the URL (e.g., `http://localhost:3000/#debug`). Refresh the page to see the debug panel.
+Example : https://clock-scapes.vercel.app/#debug
 
 ## Acknowledgements
 
